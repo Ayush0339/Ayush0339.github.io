@@ -1,0 +1,88 @@
+ 
+AYUSH KHARE 
+M.Tech - Mechanical Engineering 
+Indian Institute of Technology  Tirupati,  India 
+www.linkedin.com/in/ayush-khare-188759186 
+Phone No./ Mail ID  :- ayushkhare3.14@gmail.com  / 9926207572  
+Education   Details 
+                                                                                                                                                  
+                                                                                                                                                                                                                                                      
+Program                                                                   Institute                                                                                                      Year       %/CGPA 
+M.Tech - Design & Manufacturing                          IIT Tirupati                                                                                                2024       7.81 
+B.Tech - Mechanical                                                 Gyan Ganga Institute  of Technology and Sciences                                    2021       8.95 
+12th                                                                          Nachiketa  S.S School                                                                                 2017       80 
+10th                                                                          Nachiketa  S.S School                                                                                 2015       8.4 
+Areas of Interest                                                                                                                                                                                          
+•  Research & Development, Product Design, Machine Design, FEA, CAD, Design and Optimization, Manufacturing 
+ 
+ 
+CAD Softwares 
+Finite Element Analysis 
+Simulation Tools 
+Rendering Software 
+Autopilot Software 
+Product Design 
+Catia V5 , AutoCAD, Solidworks 
+ANSYS - Workbench 
+Matlab 
+KeyShot 
+ArduPilot 
+CDR, Design Reviews, DFx , FMEA , QFD , Material Selection , Prototyping
+ 
+ 
+ 
+•   R&D - Design Engineer (Organization: Transvahan Technologies India Private Limited, Bengaluru )                                    [July  2024 – Till Date ] 
+Performed calculations for product design tailored to the Indian Army's requirements. Conducted structural analysis using ANS     YS 
+and implemented design optimizations to reduce product    weight and cost, ensuring efficiency and reliability.    
+•   Intern  - Design  Engineer  ( Organization : Prima Innotech  LLC, US )                                                                              [March 2023 – Till Date] 
+Led the team in designing and optimizing CAD designs for Prototype Exfoliation and Ni Electroplating Apparatus.  Applied DFx, 
+CDR, DFEA, and QFD methodologies, alongside material selection and cost reduction analyses. Conducted structural analysis to 
+ensure robustness and facilitated manufacturing at IIT Tirupati facilities.  
+•   Intern - Design Engineer (Organization: Prima Innotech LLC, US)                                                                                                    
+Developed a conceptual design for an exfoliation and electroplating apparatus. Designed a Catia V5 CAD-based concept for a 
+wafer exfoliation system, integrating controlled spalling techniques inspired by IBM research. The design focuses on enhancing 
+efficiency  by  replacing  SiC  with  GaN,  targeting  applications  in  flexible  circuit  boards.  By  incorporating  GaN  on  sapphire 
+substrates and electroplating Ni on GaN, this innovation has the potential to revolutionize India's semiconductor industry, i    mprove 
+competitiveness, and drive innovation.  
+•   Intern  - Design Engineer  (Organization: Prima  Innotech  LLC, US)  
+Designed  a Traction  Model for  an Autonomous Vehicle similar Tesla Model Y, in Matlab Simulink to obtain parameters such as 
+current, motor torque, acceleration, battery consumption, etc   . 
+•   Internship  (Organization : Oil and Natural  Gas Corporation  Limited)                                                                                               [4 Weeks] 
+It involved in various activities related to the exploration, production, and management of oil and natural gas resources. Worked 
+on Air Conditioning, Power Generation and Drilling Techniques. 
+•   Internship (Organization: Ordnance Factory Khamaria)                                                                                                                         [2 Week] 
+It is responsible for manufacturing various defense-related equipment, ammunition, and weapons for the Indian Armed Forces. 
+Learn the manufacturing Techniques and Quality checking methods.  
+ Experience 
+Technical Proficiency 
+----------------Page (0) Break----------------
+ Projects                                                                                                                                                                                                                             
+•   Design and Development of Fixed wing Drone                                                                                                                                         [6 Months] 
+Aim to build a drone with autonomous  landing  and takeoff with 24hr  of Flight duration. Currently  Working  on Designing  and 
+analysis of the Drone. Manufacturing it using VIP Technique from the composite material using Carbon Fiber. Working on RTK 
+for the GPS and ArduPilot for the autonomous handling of Drone. 
+•  Drone Launcher System                                                                                                                                                                           [6 Months] 
+We  have  developed  a  fully  indigenous  Drone  Launcher,  designed  using  CAD,  analyzed,  optimized,  and  fabricated  to  reliably 
+launch drones weighing up to 20kg. Once testing is complete, we plan to apply for a patent. This innovative solution will be       the 
+first of its kind in India and is projected to be 95% more cost -effective than European competitors.  
+•   Electric Kart                                                                                                                                                                                               [6 Months]
+Build an Electric kart for the National Electric Kart Championship. Designed a CAD model usin g CATIA V5 and Structural analysis 
+using ANSYS Workbench .           
+ 
+Achievements                                                                                                                                                                                                                    
+•    Chancellor Scholarship by RGPV university. 
+•   Idea Selected for Smart India Hackathon 2018 on Security and Surveillance System. 
+  Positions of Responsibility                                                                                                                                                                                             
+Placement Representative 
+•    Responsible for all the placement related things for the Design & Manufacturing Branch. 
+Manage International Conference PFAM organized in IIT Tirupati 
+•    Responsible for managing the Guest and handling the Technical and Scheduling Conferences. 
+               [1 year] 
+ 
+               [1 Months]
+  Extra Curricular activities                                                                                                                                                                                             
+•   Completed NCC ' B ' and NCC ' C ' Certificate 
+•   Played in Inter Hostel Volleyball  Team 
+  Hobbies or  Interests                                                                                                                                                                                                         
+•    Reading  Books of Stock Market , Intraday Trader , Playing  Cricket  , Volleyball   , Walking  
+----------------Page (1) Break----------------
